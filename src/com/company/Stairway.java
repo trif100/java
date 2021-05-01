@@ -1,6 +1,6 @@
 package com.company;
 
-public class Zadanie1 {
+public class Stairway {
     public static void main(String[] args) {
         stairway(10);
         stairway(-10);
